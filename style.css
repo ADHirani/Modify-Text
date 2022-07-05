@@ -1,0 +1,35 @@
+.content{
+    width: 550px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.textArea{
+    padding: 10px;
+}
+
+.form-label{
+    font-size: larger;
+    font-style: oblique;
+    margin-bottom: 20px;
+}
+
+.buttons{
+    width: 810px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btn{
+    margin: auto 6px;
+    padding: 5px;
+}
+.convertText{
+    width: 810px;
+    margin: auto;
+    padding: 0px 38px;
+    padding-top: 10px;
+}
